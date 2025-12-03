@@ -1,7 +1,3 @@
-Abaixo está um modelo de `README.md` em português para sua aplicação hexagonal de alunos com Spring Boot e H2.
-
-***
-
 # Microsserviço de Alunos – Arquitetura Hexagonal
 
 Este projeto é um microsserviço simples para gerenciamento de alunos, desenvolvido em Java com Spring Boot, seguindo o estilo de Arquitetura Hexagonal (Ports & Adapters).  
